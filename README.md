@@ -6,7 +6,7 @@ This project demonstrates a simple linear regression task to predict a student's
 
 The dataset contains information about the number of study hours and the corresponding scores for a group of students.
 
-Dataset: [Student_scores.csv](https://github.com/Rishikesavan1/Students-Score-Prediction/blob/main/student_scores.csv)
+Dataset: [Student_scores.csv](http://bit.ly/w-data)
 
 ## Project Structure
 
